@@ -1,0 +1,73 @@
+{
+  "the_faculty_of_arts_and_sciences": {
+    "name": "The Faculty of Arts and Sciences",
+    "departments": {
+      "chemistry": {"name": "Chemistry"},
+      "history": {"name": "History"},
+      "linguistics": {"name": "Linguistics"},
+      "mathematics": {"name": "Mathematics"},
+      "molecular_biology_and_genetics": {"name": "Molecular Biology And Genetics"},
+      "philosophy": {"name": "Philosophy"},
+      "physics": {"name": "Physics"},
+      "psychology": {"name": "Psychology"},
+      "sociology": {"name": "Sociology"},
+      "translation_and_interpreting_studies": {"name": "Translation and Interpreting Studies"},
+      "turkish_language_and_literature": {"name": "Turkish Language And Literature"},
+      "western_languages_and_literatures": {"name": "Western Languages And Literatures"}
+    }
+  },
+  "the_faculty_of_economics_and_administrative_sciences": {
+    "name": "The Faculty of Economics and Administrative Sciences",
+    "departments": {
+      "economics": {"name": "Economics"},
+      "management": {"name": "Management"},
+      "political_science_and_international_relations": {"name": "Political Science And International Relations"}
+    }
+  },
+  "the_faculty_of_education": {
+    "name": "The Faculty of Education",
+    "departments": {
+      "computer_education_and_educational_technology": {"name": "Computer Education And Educational Technology"},
+      "educational_sciences": {"name": "Educational Sciences"},
+      "foreign_language_education": {"name": "Foreign Language Education"},
+      "primary_education": {"name": "Primary Education"},
+      "mathematics_and_science_education": {"name": "Mathematics And Science Education"}
+    }
+  },
+  "the_faculy_of_engineering": {
+    "name": "The Faculty of Engineering",
+    "departments": {
+      "chemical_engineering": {"name": "Chemical Engineering"},
+      "civil_engineering": {"name": "Civil Engineering"},
+      "computer_engineering": {"name": "Computer Engineering",
+        "1": ["MATH101", "PHYS121", "CHEM105", "CMPE150", "EC101"],
+        "2": ["MATH102", "PHYS201", "HSS", "CMPE160", "EC102"],
+        "3": ["MATH201", "PHYS202", "EE210", "CMPE220", "CMPE250", "TK221"],
+        "4": ["MATH202", "EE212", "CMPE230", "CMPE240", "CMPE260", "TK222"],
+        "5": ["CMPE300", "CMPE322", "CMPE343", "CMPE344", "IE310", "HTR311"],
+        "6": ["CMPE321", "CMPE350", "CMPE352", "CMPE362", "IE306", "HTR312"],
+        "7": ["CMPE451", "CMPE443", "CC", "CC", "CC"],
+        "8": ["CMPE492", "HSS", "CC", "CC", "CC"]
+      },
+      "electrical_and_electronic_engineering": {"name": "Electrical And Electronic Engineering"},
+      "industrial_engineering": {"name": "Industrial Engineering"},
+      "mechanical_engineering": {"name": "Mechanical Engineering"}
+    }
+  },
+  "the_school_of_applied_disciplines": {
+    "name": "The School of Applied Disciplines",
+    "departments": {
+      "international_trade": {"name": "International Trade"},
+      "management_information_systems": {"name": "Management Information Systems"},
+      "tourism_administration": {"name": "Tourism Administration"}
+    }
+  },
+  "the_school_of_foreign_languages": {
+    "name": "The School of Foreign Languages",
+    "departments": {
+      "advanced_english_unit": {"name": "Advanced English Unit"},
+      "english_preparatory_division": {"name": "English Preparatory Division"},
+      "modern_languages_unit" : {"name": "Modern Languages Unit"}
+    }
+  }
+}
